@@ -1,0 +1,4 @@
+#Sat Dec 16 19:54:03 MST 2023
+base.0=/home/daniel/flutterProjects/open_library_api/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
