@@ -1,0 +1,1 @@
+const docsPerPage = 100;
